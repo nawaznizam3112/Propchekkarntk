@@ -14,7 +14,7 @@ import streamlit as st
 # Application configuration
 # ----------------------------------------------------------
 
-API_URL = "http://localhost:8000"
+API_URL = "https://propchekkarntk.onrender.com"
 
 st.set_page_config(
 
